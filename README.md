@@ -48,7 +48,7 @@ A real-time embedded controller designed to acquire, process, and display **Acou
 ---
 
 **🔋 Air-Cooled Battery Thermal Management System for EV**
-> Academic Research · Chulalongkorn University
+> Academic Research · Mechanical Engineering @ KMUTNB
 
 Investigation of battery lifespan enhancement through optimized **air-cooled thermal management** for electric vehicle battery packs.
 
