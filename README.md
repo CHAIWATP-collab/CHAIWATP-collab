@@ -35,20 +35,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=CHAIWATP-collab&theme=dark&hide_border=true&ring=0891b2&fire=0891b2&currStreakLabel=0891b2)
-
----
-
-### 📫 Contact Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-CHAIWATP--collab-181717?style=for-the-badge&logo=github)](https://github.com/CHAIWATP-collab)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chaiwat%20Phuchaiyanon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaiwat-phuchaiyanon-82a1152a6/)
-[![Email](https://img.shields.io/badge/Email-chaiwat.phuchaiyanon@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaiwat.phuchaiyanon@gmail.com)
-
----
-
 ### 🚀 Featured Projects
 
 **🔧 Embedded Sensing & AE Data Acquisition System**
@@ -68,4 +54,19 @@ Investigation of battery lifespan enhancement through optimized **air-cooled the
 
 - 🏆 Won **2nd Place** — Academic Research Best Topic Award
 - 🛠️ Skills: Team Management, Research, Thermal Analysis, CAD/Simulation
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=CHAIWATP-collab&theme=dark&hide_border=true&ring=0891b2&fire=0891b2&currStreakLabel=0891b2)
+
+---
+
+### 📫 Contact Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-CHAIWATP--collab-181717?style=for-the-badge&logo=github)](https://github.com/CHAIWATP-collab)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chaiwat%20Phuchaiyanon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaiwat-phuchaiyanon-82a1152a6/)
+[![Email](https://img.shields.io/badge/Email-chaiwat.phuchaiyanon@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaiwat.phuchaiyanon@gmail.com)
+
 
