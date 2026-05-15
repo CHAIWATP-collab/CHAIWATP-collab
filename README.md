@@ -37,10 +37,6 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CHAIWATP-collab&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CHAIWATP-collab&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&custom_title=Top%20Languages)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=CHAIWATP-collab&theme=dark&hide_border=true&ring=0891b2&fire=0891b2&currStreakLabel=0891b2)
 
 ---
